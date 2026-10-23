@@ -59,15 +59,6 @@ groupes_marge = [g['Taux_marge'].values
 statistique, p_value = kruskal(*groupes_marge)
 ```
 
-![Comparaison des deux prompts](images/comparatif_prompts.png)
-*Points convergents et complémentaires entre les deux stratégies*
-
-![Matrice de Spearman](images/spearman.png)
-*Matrice de corrélation de Spearman : stock, ventes, prix*
-
-![Diagramme de Pareto](images/pareto.png)
-*Diagramme de Pareto du chiffre d'affaires*
-
 ## Limites
 
 - La comparaison repose sur une seule expérience, sur un seul projet : les conclusions ne se généralisent pas telles quelles
