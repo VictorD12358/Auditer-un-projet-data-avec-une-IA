@@ -1,4 +1,4 @@
-# Projet 6 OpenClassrooms — Échanges avec une IA
+# Prompt élaboré
 
 ## Sommaire
 
